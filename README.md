@@ -1,6 +1,7 @@
 
-
-## <h1 align="center"> CSS-Transitions</h1>
+<p align="center">
+CSS-Transitions
+  </p>
 
 <p align="center">
   <p align="center">
