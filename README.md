@@ -17,10 +17,10 @@ CSS-Transitions
   <a href="#memo-licença">Licença</a>
 </p>
 
-#
+
 
   
- ## 💻 Sistemas
+💻 Sistemas
 
 Esse projeto foi desenvolvido com as seguintes sistemas:
 
@@ -38,15 +38,15 @@ Morphing ou morph é um efeito especial de computação gráfica que permite uma
 
 Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abaixo .
 
-#
+
 [Site Mozzila CSS-Transitions](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
-##
+
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
-###
+
 [Recursos para desenvolvedores,por desenvolvedores](https://developer.mozilla.org/pt-BR/)
-####
+
 [Mais informações sobre HTML5](https://html5.org/)
-#####
+
 [Mais informações sobre CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
                                                                                                                          
 
