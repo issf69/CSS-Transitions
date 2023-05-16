@@ -2,7 +2,7 @@
 CSS-Transitions
  </p>
  <p align="center">
- <a href="https://youtu.be/tLzCKJCvfio"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://www.youtube.com/watch?v=TnGlAPn7J_8"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   </p>
  
 
@@ -38,7 +38,7 @@ Morphing ou morph é um efeito especial de computação gráfica que permite uma
 
 Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abaixo .
 
-🎥 [Assistir o vídeo do Projeto CSS Transitions](https://youtu.be/tLzCKJCvfio)
+🎥 [Assistir o vídeo do Projeto CSS Transitions](https://www.youtube.com/watch?v=TnGlAPn7J_8)
 
 💻[Site Mozzila CSS-Transitions](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
