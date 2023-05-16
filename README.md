@@ -2,7 +2,7 @@
 CSS-Transitions
  </p>
  <p align="center">
- <a href="https://www.youtube.com/watch?v=NwTZ-ncHCVI"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://youtu.be/tLzCKJCvfio"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   </p>
  
 
