@@ -38,7 +38,7 @@ Morphing ou morph é um efeito especial de computação gráfica que permite uma
 
 Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abaixo .
 
-[Link do Projeto CSS Transitions](https://youtu.be/tLzCKJCvfio)
+[Assistir o vídeo do Projeto CSS Transitions](https://youtu.be/tLzCKJCvfio)
 
 [Site Mozzila CSS-Transitions](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
@@ -55,5 +55,6 @@ Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abai
 Esse projeto está sob a licença MIT.
 
 ---
+
 
 Feito com ♥ .Projeto de estudo da aluna Irene Silva França, feito através Plataforma Dio :wave: [Participe da nossa comunidade!](https://www.dio.me/))
